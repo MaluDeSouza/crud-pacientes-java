@@ -21,7 +21,7 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MaluDeSouza/crud-pacientes-java.git
 
 2. Abra o projeto na sua IDE (ex: IntelliJ IDEA).
 
